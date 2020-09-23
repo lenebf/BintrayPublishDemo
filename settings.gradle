@@ -1,0 +1,3 @@
+include ':blibrary'
+include ':app'
+rootProject.name = "BintrayPublishDemo"
